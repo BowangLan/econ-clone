@@ -1,0 +1,3594 @@
+[
+  {
+    "uniqpid": "1834154167",
+    "activityIdBase64": "NTkxMjI3MTk=",
+    "short_title_c2c": "",
+    "priceWithRate": "59.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:644045711301;cat_id:122690003;seller_id:748793950;seller_type:1;src:mainse;recType:10;rn:34ba7286deb8bcb7c41212b127aa7aec;c_flag:false;client:android;sp_rank_features:vp%3A59.0%3Bxf%3A2.1517254936043e-05%3Bxg%3A0.0038890799041837%3Bvb%3A5.6624412536621e-06%3Bvu%3A0.013325124979019%3Buw%3A2.1517276763916e-05%3Buc%3A0.0038890838623047%3Bul%3A0.0%3Bac%3A102559944.0;wlsort:0;price:59;sold:228;sort:_coefp;tpp_bucket:9;catepgoryp:122690003 50006842 0;sumtips:bsl_165",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "taobaoSearch",
+        "key": "xxc"
+      },
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "双肩包男大容量电脑旅行背包时尚潮流大学生高中初中学生书包女夏",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "59.00",
+      "usp": "bsl_165",
+      "pidvid_info": "20021:130145;148670798:148827290;34272:115775;20608:1628;",
+      "p_f": "0",
+      "list_param": "双肩包_0_34ba7286deb8bcb7c41212b127aa7aec",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "2",
+      "x_object_type_search": "item",
+      "price_express_pic": "picUrl::O1CNA1Fhg6ny1f39Dfmc24u_!!748793950-0-psf.jpg&original::0&picType::p11&channel::wsearchicon-item&biz::pictag&picId::1932241974",
+      "x_ad": "0",
+      "x_object_id": "644045711301"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "34ba7286deb8bcb7c41212b127aa7aec"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i644045711301.htm?&ttid=600000%40taobao_android_10.7.0&sid=c7448937967ac54dbc7264f3f314823a",
+    "itemCollect": "false",
+    "price": "79.00",
+    "summaryTips": ["牛津纺", "可放15寸电脑", "车缝线"],
+    "realSales": "200+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "228",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["木村耀司旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=644045711301",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=34ba7286deb8bcb7c41212b127aa7aec&m=newsimilarsame&isP4p=false&n=10&nid=644045711301&searchToken=8e81ae8d063bbc0b9728ee4b61514d71cbef77d31e041de10007b6f94adcf497&hasSimilar=true&graphnid=644045711301&selected=similar&category=122690003&sellerId=748793950&similarVersion=dynamic&appId=18601",
+    "item_id": "644045711301",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "https://picasso.alicdn.com/imgextra/O1CNA1Fhg6ny1f39Dfmc24u_!!748793950-0-psf.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客2万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "木村耀司旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=644045711301"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "59.00",
+      "preText": ""
+    },
+    "userId": "748793950",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=644045711301&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=8e81ae8d063bbc0b9728ee4b61514d71cbef77d31e041de10007b6f94adcf497",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,tmall,baoyounew",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "propertyName": "材质",
+        "propertyValueName": "牛津纺",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "容纳电脑尺寸",
+        "propertyValueName": "可放15寸电脑",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "流行元素",
+        "propertyValueName": "车缝线",
+        "fieldTemplate": "property"
+      }
+    ]
+  },
+  {
+    "uniqpid": "1995830678",
+    "activityIdBase64": "MTA5MzgyMDAx",
+    "short_title_c2c": "",
+    "priceWithRate": "4998.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:640239989014;cat_id:122690003;seller_id:2200657715182;seller_type:1;src:mainse;recType:10;rn:34ba7286deb8bcb7c41212b127aa7aec;c_flag:false;client:android;sp_rank_features:vp%3A3639.0%3Bxf%3A5.9604585658235e-06%3Bxg%3A0.00016474707808811%3Bvb%3A7.4505805969238e-07%3Bvu%3A0.0005192756652832%3Buw%3A5.9604644775391e-06%3Buc%3A0.00016474723815918%3Bul%3A0.0%3Bac%3A83815232.0;wlsort:0;price:4998;sold:138;sort:_coefp;tpp_bucket:9;catepgoryp:122690003 50006842 0;sumtips:numCom",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "mcm直营情侣stark大号男包",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "4998.00",
+      "title": "showTitle",
+      "usp": "numCom",
+      "pidvid_info": "20021:28404;",
+      "p_f": "0",
+      "list_param": "双肩包_0_34ba7286deb8bcb7c41212b127aa7aec",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "2",
+      "x_object_type_search": "item",
+      "lbs_info": "tmcs",
+      "x_ad": "0",
+      "x_object_id": "640239989014"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "34ba7286deb8bcb7c41212b127aa7aec"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i640239989014.htm?&ttid=600000%40taobao_android_10.7.0&sid=c7448937967ac54dbc7264f3f314823a",
+    "itemCollect": "false",
+    "price": "8650.00",
+    "summaryTips": ["人造革"],
+    "realSales": "100+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "138",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["天猫国际时尚直营", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=640239989014",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=34ba7286deb8bcb7c41212b127aa7aec&m=newsimilarsame&isP4p=false&n=10&nid=640239989014&searchToken=69fad57c552293fb502b455e59e1a0c0f91b174b2a395a863135846d20e5a702&hasSimilar=true&graphnid=640239989014&selected=similar&category=122690003&sellerId=2200657715182&similarVersion=dynamic&appId=18601",
+    "item_id": "640239989014",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search.alicdn.com/img/bao/uploaded/i4/i1/2200657715182/O1CN01YyPz9p1o9PAlWj4gO_!!2200657715182-0-sm.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客10万+",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "天猫国际时尚直营",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=640239989014"
+    },
+    "icons": [
+      {
+        "alias": "tianmaoguojinew",
+        "showType": "0",
+        "domClass": "tianmaoguojinew",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "m88by",
+        "showType": "0",
+        "domClass": "m88by",
+        "text": "满88包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "4998.00",
+      "preText": ""
+    },
+    "userId": "2200657715182",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=640239989014&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=69fad57c552293fb502b455e59e1a0c0f91b174b2a395a863135846d20e5a702",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "tianmaoguojinew,tmall,m88by",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "text": "11人评价\"优惠价划算\"",
+        "fieldTemplate": "singleRow",
+        "textColor": "#E89534"
+      }
+    ]
+  },
+  {
+    "uniqpid": "955036304",
+    "activityIdBase64": "",
+    "short_title_c2c": "",
+    "priceWithRate": "3759.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:676414616000;cat_id:122690003;seller_id:2037432060;seller_type:1;src:mainse;recType:10;rn:34ba7286deb8bcb7c41212b127aa7aec;c_flag:false;client:android;sp_rank_features:vp%3A3001.0500488281%3Bxf%3A4.0531117520004e-06%3Bxg%3A0.00029373139841482%3Bvb%3A2.9802322387695e-07%3Bvu%3A0.00033935904502869%3Buw%3A4.0531158447266e-06%3Buc%3A0.00029373168945312%3Bul%3A0.0%3Bac%3A71706824.0;wlsort:0;price:3759;sold:11;sort:_coefp;tpp_bucket:9;catepgoryp:122690003 50006842 0",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "TUMI/途明男士休闲电脑包",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "pidvid_info": "",
+      "item_price": "3759.00",
+      "p_f": "0",
+      "list_param": "双肩包_0_34ba7286deb8bcb7c41212b127aa7aec",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "2",
+      "x_object_type_search": "item",
+      "title": "showTitle",
+      "x_ad": "0",
+      "x_object_id": "676414616000"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "34ba7286deb8bcb7c41212b127aa7aec"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i676414616000.htm?&ttid=600000%40taobao_android_10.7.0&sid=c7448937967ac54dbc7264f3f314823a",
+    "itemCollect": "false",
+    "price": "7400.00",
+    "realSales": "11人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "11",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["客邻尚品海外旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=676414616000",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=34ba7286deb8bcb7c41212b127aa7aec&m=newsimilarsame&isP4p=false&n=10&nid=676414616000&searchToken=4d7f10e65b9c4df31dd58ef2ae6c8b74a60800b9b3517699b456052b98b9ac32&hasSame=true&uniqpid=955036304&selected=same&category=122690003&sellerId=2037432060&similarVersion=dynamic&appId=18601",
+    "item_id": "676414616000",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search.alicdn.com/img/bao/uploaded/i4/i2/2037432060/O1CN01eT8CYm1R5Wel2n6HW_!!2037432060.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客5千",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "客邻尚品海外旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=676414616000"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tianmaoguojinew",
+        "showType": "0",
+        "domClass": "tianmaoguojinew",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "3759.00",
+      "preText": ""
+    },
+    "userId": "2037432060",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=676414616000&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=4d7f10e65b9c4df31dd58ef2ae6c8b74a60800b9b3517699b456052b98b9ac32",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,tianmaoguojinew,tmall,baoyounew",
+    "locType": ""
+  },
+  {
+    "uniqpid": "337133784",
+    "activityIdBase64": "MTQ4MDIwMDE2",
+    "short_title_c2c": "",
+    "priceWithRate": "118.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:669500626523;cat_id:122690003;seller_id:2338273046;seller_type:0;src:mainse;recType:10;rn:34ba7286deb8bcb7c41212b127aa7aec;c_flag:false;client:android;sp_rank_features:vp%3A116.66999816895%3Bxf%3A9.9539656730485e-06%3Bxg%3A0.004032130818814%3Bvb%3A2.4139881134033e-06%3Bvu%3A0.022243648767471%3Buw%3A9.9539756774902e-06%3Buc%3A0.0040321350097656%3Bul%3A0.0%3Bac%3A58556728.0;wlsort:0;price:118;sold:233;sort:_coefp;tpp_bucket:9;catepgoryp:122690003 50006842 0;sumtips:bsl_165",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "瑞士军士刀旅行双肩包",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "shop_algo_tag;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "118.00",
+      "title": "showTitle",
+      "usp": "bsl_165",
+      "pidvid_info": "20021:130145;148670798:148613613;34272:115775;20608:91926966;",
+      "p_f": "0",
+      "list_param": "双肩包_0_34ba7286deb8bcb7c41212b127aa7aec",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "2",
+      "x_object_type_search": "item",
+      "x_ad": "0",
+      "x_object_id": "669500626523"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "34ba7286deb8bcb7c41212b127aa7aec"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i669500626523.htm?&ttid=600000%40taobao_android_10.7.0&sid=c7448937967ac54dbc7264f3f314823a",
+    "itemCollect": "false",
+    "price": "328.00",
+    "summaryTips": ["牛津纺", "可放16寸电脑", "车缝线"],
+    "realSales": "200+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "233",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=669500626523",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=34ba7286deb8bcb7c41212b127aa7aec&m=newsimilarsame&isP4p=false&n=10&nid=669500626523&searchToken=ebe9c0272e36f957380723b74d06898f9fee2dd43db570067ce109f9751a2262&hasSimilar=true&graphnid=669500626523&selected=similar&category=122690003&sellerId=2338273046&similarVersion=dynamic&appId=18601",
+    "item_id": "669500626523",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i3/2338273046/O1CN01d7y4Wy1YN79mESLwy_!!2338273046.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "7年老店",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "瑞士军刀包大陆总代",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=669500626523"
+    },
+    "icons": [
+      {
+        "prefix": "淘金币",
+        "alias": "tjbnew",
+        "showType": "0",
+        "domClass": "tjbnew",
+        "text": "抵3.5元",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "118.00",
+      "preText": ""
+    },
+    "userId": "2338273046",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=669500626523&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=ebe9c0272e36f957380723b74d06898f9fee2dd43db570067ce109f9751a2262",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "tjbnew,baoyounew",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "propertyName": "材质",
+        "propertyValueName": "牛津纺",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "容纳电脑尺寸",
+        "propertyValueName": "可放16寸电脑",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "流行元素",
+        "propertyValueName": "车缝线",
+        "fieldTemplate": "property"
+      }
+    ]
+  },
+  {
+    "uniqpid": "261650658",
+    "activityIdBase64": "NTkxMjI3MTk=",
+    "short_title_c2c": "",
+    "priceWithRate": "59.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:649580203028;cat_id:122690003;seller_id:748793950;seller_type:1;src:mainse;recType:10;rn:34ba7286deb8bcb7c41212b127aa7aec;c_flag:false;client:android;sp_rank_features:vp%3A49.423473358154%3Bxf%3A9.5963378043962e-06%3Bxg%3A0.0051994272507727%3Bvb%3A1.7285346984863e-06%3Bvu%3A0.02250000834465%3Buw%3A9.5963478088379e-06%3Buc%3A0.0051994323730469%3Bul%3A0.0%3Bac%3A48598212.0;wlsort:0;price:59;sold:494;sort:_coefp;tpp_bucket:9;catepgoryp:122690003 50006842 0;sumtips:bsl_165",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "taobaoSearch",
+        "key": "xxc"
+      },
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "旅行商务休闲出差双肩包大容量",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "59.00",
+      "title": "showTitle",
+      "usp": "bsl_165",
+      "pidvid_info": "20021:28355;148670798:148827290;34272:115775;20608:91926966;",
+      "p_f": "0",
+      "list_param": "双肩包_0_34ba7286deb8bcb7c41212b127aa7aec",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "2",
+      "x_object_type_search": "item",
+      "price_express_pic": "picUrl::O1CN01ZmofjM1f399Ig9cfJ_!!748793950-0-lubanu-s.jpg&original::1&picType::p11&channel::wsearchicon-item&biz::common",
+      "x_ad": "0",
+      "x_object_id": "649580203028"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "34ba7286deb8bcb7c41212b127aa7aec"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i649580203028.htm?&ttid=600000%40taobao_android_10.7.0&sid=c7448937967ac54dbc7264f3f314823a",
+    "itemCollect": "false",
+    "price": "79.00",
+    "summaryTips": ["涤纶", "可放15寸电脑", "车缝线"],
+    "realSales": "400+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "494",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["木村耀司旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=649580203028",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=34ba7286deb8bcb7c41212b127aa7aec&m=newsimilarsame&isP4p=false&n=10&nid=649580203028&searchToken=8f5d881bcfeb4a5f7fd165f9369d60f5086d07f11cdc0a217fc63b3ba4318e24&hasSimilar=true&graphnid=649580203028&selected=similar&category=122690003&sellerId=748793950&similarVersion=dynamic&appId=18601",
+    "item_id": "649580203028",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i1/748793950/O1CN01ZmofjM1f399Ig9cfJ_!!748793950-0-lubanu-s.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客2万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "木村耀司旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=649580203028"
+    },
+    "icons": [
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "59.00",
+      "preText": ""
+    },
+    "userId": "748793950",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=649580203028&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=8f5d881bcfeb4a5f7fd165f9369d60f5086d07f11cdc0a217fc63b3ba4318e24",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "tmall,baoyounew",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "propertyName": "材质",
+        "propertyValueName": "涤纶",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "容纳电脑尺寸",
+        "propertyValueName": "可放15寸电脑",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "流行元素",
+        "propertyValueName": "车缝线",
+        "fieldTemplate": "property"
+      }
+    ]
+  },
+  {
+    "uniqpid": "207011603",
+    "activityIdBase64": "",
+    "short_title_c2c": "",
+    "priceWithRate": "39.90",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:646985717812;cat_id:122690003;seller_id:2207340301579;seller_type:1;src:mainse;recType:10;rn:34ba7286deb8bcb7c41212b127aa7aec;c_flag:false;client:android;sp_rank_features:vp%3A39.900001525879%3Bxf%3A9.3579201347893e-06%3Bxg%3A0.0086288368329406%3Bvb%3A1.8179416656494e-06%3Bvu%3A0.038322001695633%3Buw%3A9.3579292297363e-06%3Buc%3A0.0086288452148438%3Bul%3A0.0%3Bac%3A47148656.0;wlsort:0;price:39;sold:14630;sort:_coefp;tpp_bucket:9;catepgoryp:122690003 50006842 0;sumtips:bsl_165",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "taobaoSearch",
+        "key": "xxc"
+      },
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "双肩包男简约大容量旅行女休闲",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "39.90",
+      "title": "showTitle",
+      "usp": "bsl_165",
+      "pidvid_info": "20021:14086955;20608:20785;",
+      "p_f": "0",
+      "list_param": "双肩包_0_34ba7286deb8bcb7c41212b127aa7aec",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "2",
+      "x_object_type_search": "item",
+      "x_ad": "0",
+      "x_object_id": "646985717812"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "34ba7286deb8bcb7c41212b127aa7aec"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i646985717812.htm?&ttid=600000%40taobao_android_10.7.0&sid=c7448937967ac54dbc7264f3f314823a",
+    "itemCollect": "false",
+    "price": "69.00",
+    "summaryTips": ["尼龙布", "日韩"],
+    "realSales": "1万+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "14630",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["艾妮兔旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=646985717812",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=34ba7286deb8bcb7c41212b127aa7aec&m=newsimilarsame&isP4p=false&n=10&nid=646985717812&searchToken=7b249dfe3584c5987263564dd8a6550ecd5e21bf29d6e27f846da1787806a9df&hasSimilar=true&graphnid=646985717812&selected=similar&category=122690003&sellerId=2207340301579&similarVersion=dynamic&appId=18601",
+    "item_id": "646985717812",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i3/2207340301579/O1CN01Yt71AJ1NXE4Y0f10Y_!!2207340301579.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#666666",
+          "text": "艾妮兔旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=646985717812"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "39.90",
+      "preText": ""
+    },
+    "userId": "2207340301579",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=646985717812&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=7b249dfe3584c5987263564dd8a6550ecd5e21bf29d6e27f846da1787806a9df",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,tmall,baoyounew",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "propertyName": "材质",
+        "propertyValueName": "尼龙布",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "风格",
+        "propertyValueName": "日韩",
+        "fieldTemplate": "property"
+      }
+    ]
+  },
+  {
+    "uniqpid": "1579034062",
+    "activityIdBase64": "MTUwNzM4MDA3",
+    "short_title_c2c": "",
+    "priceWithRate": "39.90",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:673023088480;cat_id:122690003;seller_id:1726473375;seller_type:1;src:mainse;recType:10;rn:34ba7286deb8bcb7c41212b127aa7aec;c_flag:false;client:android;sp_rank_features:vp%3A31.170000076294%3Bxf%3A8.9406876213616e-06%3Bxg%3A0.0083160316571593%3Bvb%3A1.8179416656494e-06%3Bvu%3A0.025858759880066%3Buw%3A8.9406967163086e-06%3Buc%3A0.0083160400390625%3Bul%3A0.0%3Bac%3A45193104.0;wlsort:0;price:39;sold:4433;sort:_coefp;tpp_bucket:9;catepgoryp:122690003 50006842 0;sumtips:bsl_165",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "taobaoSearch",
+        "key": "xxc"
+      },
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "双肩包男大容量简约旅行女休闲",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "39.90",
+      "title": "showTitle",
+      "usp": "bsl_165",
+      "price_express_long_pic": "picUrl::O1CN01KtxtD41annTNQjf0D_!!1726473375.jpg&original::1&picType::p34&channel::wsearchicon-item&biz::common",
+      "pidvid_info": "20021:14086955;148670798:148613613;20608:20785;",
+      "p_f": "0",
+      "list_param": "双肩包_0_34ba7286deb8bcb7c41212b127aa7aec",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "2",
+      "x_object_type_search": "item",
+      "price_express_pic": "picUrl::O1CN01WmVCKG1annTGz8qwD_!!1726473375.jpg&original::1&picType::p11&channel::wsearchicon-item&biz::common",
+      "x_ad": "0",
+      "x_object_id": "673023088480"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "34ba7286deb8bcb7c41212b127aa7aec"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i673023088480.htm?&ttid=600000%40taobao_android_10.7.0&sid=c7448937967ac54dbc7264f3f314823a",
+    "itemCollect": "false",
+    "price": "49.00",
+    "summaryTips": ["尼龙布", "可放16寸电脑", "日韩"],
+    "realSales": "4000+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "4433",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["游乐者旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=673023088480",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=34ba7286deb8bcb7c41212b127aa7aec&m=newsimilarsame&isP4p=false&n=10&nid=673023088480&searchToken=1dcf0103883cb68699322208dae49b91901ee38457b331139405126c8596d66d&hasSimilar=true&graphnid=673023088480&selected=similar&category=122690003&sellerId=1726473375&similarVersion=dynamic&appId=18601",
+    "item_id": "673023088480",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i2/1726473375/O1CN01WmVCKG1annTGz8qwD_!!1726473375.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客2万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "游乐者旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=673023088480"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "prefix": "淘金币",
+        "alias": "tjbnew",
+        "showType": "0",
+        "domClass": "tjbnew",
+        "text": "抵1.1元",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "xinping",
+        "showType": "0",
+        "domClass": "xinping",
+        "text": "新品",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "mianfeishangmengtui",
+        "showType": "0",
+        "domClass": "mianfeishangmengtui",
+        "text": "免费取退",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "39.90",
+      "preText": ""
+    },
+    "userId": "1726473375",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=673023088480&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=1dcf0103883cb68699322208dae49b91901ee38457b331139405126c8596d66d",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,tmall,tjbnew,xinping,baoyounew,mianfeishangmengtui",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "propertyName": "材质",
+        "propertyValueName": "尼龙布",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "容纳电脑尺寸",
+        "propertyValueName": "可放16寸电脑",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "风格",
+        "propertyValueName": "日韩",
+        "fieldTemplate": "property"
+      }
+    ]
+  },
+  {
+    "uniqpid": "1408734487",
+    "activityIdBase64": "Nzc0OTIwMzM=",
+    "short_title_c2c": "",
+    "priceWithRate": "59.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:614241975715;cat_id:122690003;seller_id:2259016474;seller_type:1;src:mainse;recType:10;rn:34ba7286deb8bcb7c41212b127aa7aec;c_flag:false;client:android;sp_rank_features:vp%3A59.0%3Bxf%3A1.1742103197321e-05%3Bxg%3A0.0030822723638266%3Bvb%3A2.5331974029541e-06%3Bvu%3A0.0069846510887146%3Buw%3A1.1742115020752e-05%3Buc%3A0.003082275390625%3Bul%3A0.0%3Bac%3A38890816.0;wlsort:0;price:59;sold:6285;sort:_coefp;tpp_bucket:9;catepgoryp:122690003 50006842 0;sumtips:bsl_165",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "官方正品双肩包大容量学生书包",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "59.00",
+      "title": "showTitle",
+      "usp": "bsl_165",
+      "price_express_long_pic": "picUrl::O1CNA11vqmhp1xh8t9gCQqk_!!2259016474-0-psf.jpg&original::0&picType::p34&channel::wsearchicon-item&biz::pictag&picId::1885009751",
+      "pidvid_info": "20021:28355;148670798:148613613;34272:115775;20608:20785;",
+      "p_f": "0",
+      "list_param": "双肩包_0_34ba7286deb8bcb7c41212b127aa7aec",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "2",
+      "x_object_type_search": "item",
+      "price_express_pic": "picUrl::O1CNA17uLi6v1xh8tEFhHNk_!!2259016474-0-psf.jpg&original::0&picType::p11&channel::wsearchicon-item&biz::pictag&picId::1905060098",
+      "x_ad": "0",
+      "x_object_id": "614241975715"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "34ba7286deb8bcb7c41212b127aa7aec"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i614241975715.htm?&ttid=600000%40taobao_android_10.7.0&sid=c7448937967ac54dbc7264f3f314823a",
+    "itemCollect": "false",
+    "price": "89.00",
+    "summaryTips": ["涤纶", "可放16寸电脑", "车缝线"],
+    "realSales": "6000+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "6285",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["希卡旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=614241975715",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=34ba7286deb8bcb7c41212b127aa7aec&m=newsimilarsame&isP4p=false&n=10&nid=614241975715&searchToken=3174dfdd676a210b382a51e285239de71f019053915003af73e0f4fe50f9281b&hasSimilar=true&graphnid=614241975715&selected=similar&category=122690003&sellerId=2259016474&similarVersion=dynamic&appId=18601",
+    "item_id": "614241975715",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "https://picasso.alicdn.com/imgextra/O1CNA17uLi6v1xh8tEFhHNk_!!2259016474-0-psf.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客2万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "希卡旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=614241975715"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "gongyibaobei",
+        "showType": "0",
+        "domClass": "gongyibaobei",
+        "text": "公益宝贝",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "59.00",
+      "preText": ""
+    },
+    "userId": "2259016474",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=614241975715&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=3174dfdd676a210b382a51e285239de71f019053915003af73e0f4fe50f9281b",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,gongyibaobei,tmall,baoyounew",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "propertyName": "材质",
+        "propertyValueName": "涤纶",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "容纳电脑尺寸",
+        "propertyValueName": "可放16寸电脑",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "流行元素",
+        "propertyValueName": "车缝线",
+        "fieldTemplate": "property"
+      }
+    ]
+  },
+  {
+    "uniqpid": "756859439",
+    "priceShowWithIcon": {
+      "iconHeight": "15",
+      "suffixColor": "#F7002F",
+      "iconWidth": "15",
+      "priceColor": "#F7002F",
+      "showOriginPrice": "false",
+      "index": "0",
+      "suffixText": "限时价",
+      "domClass": "jhs_price_icon",
+      "hiddenPriceUnderline": "false",
+      "iconUrl": "https://gw.alicdn.com/tfs/TB1kgDhVVzqK1RjSZFCXXbbxVXa-45-45.png"
+    },
+    "activityIdBase64": "MTI4Njg2MDAx",
+    "short_title_c2c": "",
+    "priceWithRate": "5950.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:602965219744;cat_id:122690003;seller_id:3793607024;seller_type:1;src:mainse;recType:10;rn:34ba7286deb8bcb7c41212b127aa7aec;c_flag:false;client:android;sp_rank_features:vp%3A5950.0668945312%3Bxf%3A4.9471805141366e-06%3Bxg%3A7.3969291406684e-05%3Bvb%3A4.1723251342773e-07%3Bvu%3A0.00013658404350281%3Buw%3A4.9471855163574e-06%3Buc%3A7.396936416626e-05%3Bul%3A0.0%3Bac%3A23863414.0;wlsort:0;price:5950;sold:32;sort:_coefp;tpp_bucket:9;catepgoryp:122690003 50006842 0;sumtips:bsl_165",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "taobaoSearch",
+        "key": "xxc"
+      },
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "巴利harper牛皮条纹双肩包",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "5950.00",
+      "title": "showTitle",
+      "usp": "bsl_165",
+      "price_express_long_pic": "picUrl::O1CN01uogPcm21l2j8tULnI_!!3793607024.jpg&original::1&picType::p34&channel::wsearchicon-item&biz::common",
+      "pidvid_info": "20021:28397;34272:9142620;20608:125200612;",
+      "p_f": "0",
+      "list_param": "双肩包_0_34ba7286deb8bcb7c41212b127aa7aec",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "2",
+      "x_object_type_search": "item",
+      "price_express_pic": "picUrl::O1CN01uogPcm21l2j8tULnI_!!3793607024.jpg&original::1&picType::p11&channel::wsearchicon-item&biz::common",
+      "x_ad": "0",
+      "x_object_id": "602965219744"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "34ba7286deb8bcb7c41212b127aa7aec"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i602965219744.htm?&ttid=600000%40taobao_android_10.7.0&sid=c7448937967ac54dbc7264f3f314823a",
+    "itemCollect": "false",
+    "price": "9690.00",
+    "summaryTips": ["牛皮", "拼接", "欧美时尚"],
+    "realSales": "32人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "32",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["魅力惠买手折扣直营", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=602965219744",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=34ba7286deb8bcb7c41212b127aa7aec&m=newsimilarsame&isP4p=false&n=10&nid=602965219744&searchToken=5609344089a01c52783959cdd6d093452353366455e841f81692d57f1f0e729c&hasSimilar=true&graphnid=602965219744&selected=similar&category=122690003&sellerId=3793607024&similarVersion=dynamic&appId=18601",
+    "item_id": "602965219744",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i2/3793607024/O1CN01uogPcm21l2j8tULnI_!!3793607024.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客3万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "魅力惠买手折扣直营",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=602965219744"
+    },
+    "icons": [
+      {
+        "alias": "jhs_price_icon",
+        "showType": "0",
+        "domClass": "jhs_price_icon",
+        "type": "img",
+        "group": "4"
+      },
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "prefix": "淘金币",
+        "alias": "tjbnew",
+        "showType": "0",
+        "domClass": "tjbnew",
+        "text": "抵178.5元",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "zpsy2022",
+        "showType": "0",
+        "domClass": "zpsy2022",
+        "text": "正品溯源",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "5950.00",
+      "preText": ""
+    },
+    "userId": "3793607024",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=602965219744&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=5609344089a01c52783959cdd6d093452353366455e841f81692d57f1f0e729c",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "jhs_price_icon,20220614kuanghuan-T,tmall,tjbnew,zpsy2022,baoyounew",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "propertyName": "材质",
+        "propertyValueName": "牛皮",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "流行元素",
+        "propertyValueName": "拼接",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "风格",
+        "propertyValueName": "欧美时尚",
+        "fieldTemplate": "property"
+      }
+    ]
+  },
+  {
+    "uniqpid": "981618623",
+    "activityIdBase64": "",
+    "short_title_c2c": "",
+    "priceWithRate": "79.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:662544846081;cat_id:122690003;seller_id:2010990396;seller_type:1;src:mainse;recType:10;rn:34ba7286deb8bcb7c41212b127aa7aec;c_flag:false;client:android;sp_rank_features:vp%3A79.0%3Bxf%3A9.5367340691155e-06%3Bxg%3A0.0025405858177692%3Bvb%3A2.056360244751e-06%3Bvu%3A0.0050211250782013%3Buw%3A9.5367431640625e-06%3Buc%3A0.0025405883789062%3Bul%3A0.0%3Bac%3A17075346.0;wlsort:0;price:79;sold:222;sort:_coefp;tpp_bucket:9;catepgoryp:122690003 50006842 0;sumtips:bsl_165",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "taobaoSearch",
+        "key": "xxc"
+      },
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "花花公子双肩包旅行男",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "79.00",
+      "title": "showTitle",
+      "usp": "bsl_165",
+      "pidvid_info": "20021:14086955;148670798:148827290;34272:129555;20608:3267765;",
+      "p_f": "0",
+      "list_param": "双肩包_0_34ba7286deb8bcb7c41212b127aa7aec",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "2",
+      "x_object_type_search": "item",
+      "x_ad": "0",
+      "x_object_id": "662544846081"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "34ba7286deb8bcb7c41212b127aa7aec"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i662544846081.htm?&ttid=600000%40taobao_android_10.7.0&sid=c7448937967ac54dbc7264f3f314823a",
+    "itemCollect": "false",
+    "price": "99.00",
+    "summaryTips": ["尼龙布", "可放15寸电脑", "印花"],
+    "realSales": "200+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "222",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["花花公子悦诚专卖店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=662544846081",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=34ba7286deb8bcb7c41212b127aa7aec&m=newsimilarsame&isP4p=false&n=10&nid=662544846081&searchToken=f7e1ba8e2087cfb1ba7abcdbf5c3252ce79e471dc0d9f1f39af1f2bdbb36dc4d&hasSimilar=true&graphnid=662544846081&selected=similar&category=122690003&sellerId=2010990396&similarVersion=dynamic&appId=18601",
+    "item_id": "662544846081",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search.alicdn.com/img/bao/uploaded/i4/i1/2010990396/O1CN01utxpkl1EnPZB9mpmK_!!2010990396.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客1万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "花花公子悦诚专卖店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=662544846081"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "mianfeishangmengtui",
+        "showType": "0",
+        "domClass": "mianfeishangmengtui",
+        "text": "免费取退",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "79.00",
+      "preText": ""
+    },
+    "userId": "2010990396",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=662544846081&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=f7e1ba8e2087cfb1ba7abcdbf5c3252ce79e471dc0d9f1f39af1f2bdbb36dc4d",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,tmall,baoyounew,mianfeishangmengtui",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "propertyName": "材质",
+        "propertyValueName": "尼龙布",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "容纳电脑尺寸",
+        "propertyValueName": "可放15寸电脑",
+        "fieldTemplate": "property"
+      },
+      {
+        "propertyName": "流行元素",
+        "propertyValueName": "印花",
+        "fieldTemplate": "property"
+      }
+    ]
+  },
+  {
+    "uniqpid": "1834154167",
+    "activityIdBase64": "NTkxMjI3MTk=",
+    "short_title_c2c": "",
+    "priceWithRate": "59.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:644045711301;cat_id:122690003;seller_id:748793950;seller_type:1;src:mainse;recType:10;rn:4799e37ec95b6a135876c819507c2a02;c_flag:false;client:android;sp_rank_features:vp%3A59.0%3Bxf%3A1.8656235624803e-05%3Bxg%3A0.0033092466183007%3Bvb%3A3.0398368835449e-06%3Bvu%3A0.013325124979019%3Buw%3A1.8656253814697e-05%3Buc%3A0.0033092498779297%3Bul%3A0.0%3Bac%3A84440160.0;wlsort:0;price:59;sold:228;sort:_coefp;tpp_bucket:1;catepgoryp:122690003 50006842 0;sumtips:numCom",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "taobaoSearch",
+        "key": "xxc"
+      },
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "双肩包男大容量电脑旅行背包时尚潮流大学生高中初中学生书包女夏",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "59.00",
+      "usp": "numCom",
+      "pidvid_info": "20021:130145;148670798:148827290;34272:115775;20608:1628;",
+      "p_f": "0",
+      "list_param": "双肩包_0_4799e37ec95b6a135876c819507c2a02",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "3",
+      "x_object_type_search": "item",
+      "price_express_pic": "picUrl::O1CNA1Fhg6ny1f39Dfmc24u_!!748793950-0-psf.jpg&original::0&picType::p11&channel::wsearchicon-item&biz::pictag&picId::1932241974",
+      "x_ad": "0",
+      "x_object_id": "644045711301"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "4799e37ec95b6a135876c819507c2a02"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i644045711301.htm?&ttid=600000%40taobao_android_10.7.0&sid=9ac975d675ac11a118403123a1830924",
+    "itemCollect": "false",
+    "price": "79.00",
+    "summaryTips": ["牛津纺", "可放15寸电脑", "车缝线"],
+    "realSales": "200+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "228",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["木村耀司旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=644045711301",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=4799e37ec95b6a135876c819507c2a02&m=newsimilarsame&isP4p=false&n=10&nid=644045711301&searchToken=8e81ae8d063bbc0b9728ee4b61514d71cbef77d31e041de10007b6f94adcf497&hasSimilar=true&graphnid=644045711301&selected=similar&category=122690003&sellerId=748793950&similarVersion=dynamic&appId=18601",
+    "item_id": "644045711301",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "https://picasso.alicdn.com/imgextra/O1CNA1Fhg6ny1f39Dfmc24u_!!748793950-0-psf.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客2万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "木村耀司旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=644045711301"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "59.00",
+      "preText": ""
+    },
+    "userId": "748793950",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=644045711301&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=8e81ae8d063bbc0b9728ee4b61514d71cbef77d31e041de10007b6f94adcf497",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,tmall,baoyounew",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "text": "51人评价\"价格很便宜\"",
+        "fieldTemplate": "singleRow",
+        "textColor": "#E89534"
+      }
+    ]
+  },
+  {
+    "uniqpid": "337133784",
+    "activityIdBase64": "MTQ4MDIwMDE2",
+    "short_title_c2c": "",
+    "priceWithRate": "118.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:669500626523;cat_id:122690003;seller_id:2338273046;seller_type:0;src:mainse;recType:10;rn:4799e37ec95b6a135876c819507c2a02;c_flag:false;client:android;sp_rank_features:vp%3A116.66999816895%3Bxf%3A1.1503684618219e-05%3Bxg%3A0.0035934413317591%3Bvb%3A1.3411045074463e-06%3Bvu%3A0.022243648767471%3Buw%3A1.150369644165e-05%3Buc%3A0.0035934448242188%3Bul%3A0.0%3Bac%3A67144152.0;wlsort:0;price:118;sold:233;sort:_coefp;tpp_bucket:1;catepgoryp:122690003 50006842 0;sumtips:numCom",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "瑞士军士刀旅行双肩包",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "shop_algo_tag;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "118.00",
+      "title": "showTitle",
+      "usp": "numCom",
+      "pidvid_info": "20021:130145;148670798:148613613;34272:115775;20608:91926966;",
+      "p_f": "0",
+      "list_param": "双肩包_0_4799e37ec95b6a135876c819507c2a02",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "3",
+      "x_object_type_search": "item",
+      "x_ad": "0",
+      "x_object_id": "669500626523"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "4799e37ec95b6a135876c819507c2a02"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i669500626523.htm?&ttid=600000%40taobao_android_10.7.0&sid=9ac975d675ac11a118403123a1830924",
+    "itemCollect": "false",
+    "price": "328.00",
+    "summaryTips": ["牛津纺", "可放16寸电脑", "车缝线"],
+    "realSales": "200+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "233",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=669500626523",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=4799e37ec95b6a135876c819507c2a02&m=newsimilarsame&isP4p=false&n=10&nid=669500626523&searchToken=ebe9c0272e36f957380723b74d06898f9fee2dd43db570067ce109f9751a2262&hasSimilar=true&graphnid=669500626523&selected=similar&category=122690003&sellerId=2338273046&similarVersion=dynamic&appId=18601",
+    "item_id": "669500626523",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search1.alicdn.com/img/bao/uploaded/i4/i3/2338273046/O1CN01d7y4Wy1YN79mESLwy_!!2338273046.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "7年老店",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "瑞士军刀包大陆总代",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=669500626523"
+    },
+    "icons": [
+      {
+        "prefix": "淘金币",
+        "alias": "tjbnew",
+        "showType": "0",
+        "domClass": "tjbnew",
+        "text": "抵3.5元",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "118.00",
+      "preText": ""
+    },
+    "userId": "2338273046",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=669500626523&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=ebe9c0272e36f957380723b74d06898f9fee2dd43db570067ce109f9751a2262",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "tjbnew,baoyounew",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "text": "48人评价\"做工太好\"",
+        "fieldTemplate": "singleRow",
+        "textColor": "#E89534"
+      }
+    ]
+  },
+  {
+    "uniqpid": "1579034062",
+    "activityIdBase64": "MTUwNzM4MDA3",
+    "short_title_c2c": "",
+    "priceWithRate": "39.90",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:673023088480;cat_id:122690003;seller_id:1726473375;seller_type:1;src:mainse;recType:10;rn:4799e37ec95b6a135876c819507c2a02;c_flag:false;client:android;sp_rank_features:vp%3A31.170000076294%3Bxf%3A1.0728825145634e-05%3Bxg%3A0.0074157640337944%3Bvb%3A1.0132789611816e-06%3Bvu%3A0.025858759880066%3Buw%3A1.072883605957e-05%3Buc%3A0.007415771484375%3Bul%3A0.0%3Bac%3A54511912.0;wlsort:0;price:39;sold:4433;sort:_coefp;tpp_bucket:1;catepgoryp:122690003 50006842 0;sumtips:numCom",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "taobaoSearch",
+        "key": "xxc"
+      },
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "双肩包男大容量简约旅行女休闲",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "39.90",
+      "title": "showTitle",
+      "usp": "numCom",
+      "price_express_long_pic": "picUrl::O1CN01KtxtD41annTNQjf0D_!!1726473375.jpg&original::1&picType::p34&channel::wsearchicon-item&biz::common",
+      "pidvid_info": "20021:14086955;148670798:148613613;20608:20785;",
+      "p_f": "0",
+      "list_param": "双肩包_0_4799e37ec95b6a135876c819507c2a02",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "3",
+      "x_object_type_search": "item",
+      "price_express_pic": "picUrl::O1CN01WmVCKG1annTGz8qwD_!!1726473375.jpg&original::1&picType::p11&channel::wsearchicon-item&biz::common",
+      "x_ad": "0",
+      "x_object_id": "673023088480"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "4799e37ec95b6a135876c819507c2a02"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i673023088480.htm?&ttid=600000%40taobao_android_10.7.0&sid=9ac975d675ac11a118403123a1830924",
+    "itemCollect": "false",
+    "price": "49.00",
+    "summaryTips": ["尼龙布", "可放16寸电脑", "日韩"],
+    "realSales": "4000+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "4433",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["游乐者旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=673023088480",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=4799e37ec95b6a135876c819507c2a02&m=newsimilarsame&isP4p=false&n=10&nid=673023088480&searchToken=1dcf0103883cb68699322208dae49b91901ee38457b331139405126c8596d66d&hasSimilar=true&graphnid=673023088480&selected=similar&category=122690003&sellerId=1726473375&similarVersion=dynamic&appId=18601",
+    "item_id": "673023088480",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search.alicdn.com/img/bao/uploaded/i4/i2/1726473375/O1CN01WmVCKG1annTGz8qwD_!!1726473375.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客2万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "游乐者旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=673023088480"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "prefix": "淘金币",
+        "alias": "tjbnew",
+        "showType": "0",
+        "domClass": "tjbnew",
+        "text": "抵1.1元",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "xinping",
+        "showType": "0",
+        "domClass": "xinping",
+        "text": "新品",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "mianfeishangmengtui",
+        "showType": "0",
+        "domClass": "mianfeishangmengtui",
+        "text": "免费取退",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "39.90",
+      "preText": ""
+    },
+    "userId": "1726473375",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=673023088480&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=1dcf0103883cb68699322208dae49b91901ee38457b331139405126c8596d66d",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,tmall,tjbnew,xinping,baoyounew,mianfeishangmengtui",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "text": "10人评价\"外出上课可以\"",
+        "fieldTemplate": "singleRow",
+        "textColor": "#E89534"
+      }
+    ]
+  },
+  {
+    "uniqpid": "261650658",
+    "activityIdBase64": "NTkxMjI3MTk=",
+    "short_title_c2c": "",
+    "priceWithRate": "59.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:649580203028;cat_id:122690003;seller_id:748793950;seller_type:1;src:mainse;recType:10;rn:4799e37ec95b6a135876c819507c2a02;c_flag:false;client:android;sp_rank_features:vp%3A49.346969604492%3Bxf%3A1.0788429790409e-05%3Bxg%3A0.004619593732059%3Bvb%3A9.2387199401855e-07%3Bvu%3A0.02250000834465%3Buw%3A1.0788440704346e-05%3Buc%3A0.0046195983886719%3Bul%3A0.0%3Bac%3A53697412.0;wlsort:0;price:59;sold:494;sort:_coefp;tpp_bucket:1;catepgoryp:122690003 50006842 0;sumtips:numCom",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "taobaoSearch",
+        "key": "xxc"
+      },
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "旅行商务休闲出差双肩包大容量",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "59.00",
+      "title": "showTitle",
+      "smartui_img_a": "ts",
+      "smartui_img_id": "2251815511",
+      "usp": "numCom",
+      "pidvid_info": "20021:28355;148670798:148827290;34272:115775;20608:91926966;",
+      "p_f": "0",
+      "list_param": "双肩包_0_4799e37ec95b6a135876c819507c2a02",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "3",
+      "x_object_type_search": "item",
+      "smartui_img_t": "sssplus",
+      "price_express_pic": "picUrl::O1CN01ZmofjM1f399Ig9cfJ_!!748793950-0-lubanu-s.jpg&original::1&picType::p11&channel::wsearchicon-item&biz::common",
+      "x_ad": "0",
+      "x_object_id": "649580203028"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "4799e37ec95b6a135876c819507c2a02"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i649580203028.htm?&ttid=600000%40taobao_android_10.7.0&sid=9ac975d675ac11a118403123a1830924",
+    "itemCollect": "false",
+    "price": "79.00",
+    "summaryTips": ["涤纶", "可放15寸电脑", "车缝线"],
+    "realSales": "400+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "494",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["木村耀司旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=649580203028",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=4799e37ec95b6a135876c819507c2a02&m=newsimilarsame&isP4p=false&n=10&nid=649580203028&searchToken=8f5d881bcfeb4a5f7fd165f9369d60f5086d07f11cdc0a217fc63b3ba4318e24&hasSimilar=true&graphnid=649580203028&selected=similar&category=122690003&sellerId=748793950&similarVersion=dynamic&appId=18601",
+    "item_id": "649580203028",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "https://gw.alicdn.com/imgextra/i3/748793950/O1CN01DBYZ661f399nQ525B_!!748793950-0-lubanu.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客2万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "木村耀司旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=649580203028"
+    },
+    "icons": [
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "59.00",
+      "preText": ""
+    },
+    "userId": "748793950",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=649580203028&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=8f5d881bcfeb4a5f7fd165f9369d60f5086d07f11cdc0a217fc63b3ba4318e24",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "tmall,baoyounew",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "text": "18人评价\"外貌很好看\"",
+        "fieldTemplate": "singleRow",
+        "textColor": "#E89534"
+      }
+    ]
+  },
+  {
+    "uniqpid": "1408734487",
+    "activityIdBase64": "Nzc0OTIwMzM=",
+    "short_title_c2c": "",
+    "priceWithRate": "59.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:614241975715;cat_id:122690003;seller_id:2259016474;seller_type:1;src:mainse;recType:10;rn:4799e37ec95b6a135876c819507c2a02;c_flag:false;client:android;sp_rank_features:vp%3A59.0%3Bxf%3A1.2099731065973e-05%3Bxg%3A0.0026893587782979%3Bvb%3A1.3113021850586e-06%3Bvu%3A0.0069846510887146%3Buw%3A1.2099742889404e-05%3Buc%3A0.0026893615722656%3Bul%3A0.0%3Bac%3A35040652.0;wlsort:0;price:59;sold:6285;sort:_coefp;tpp_bucket:1;catepgoryp:122690003 50006842 0;sumtips:numCom",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "官方正品双肩包大容量学生书包",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "59.00",
+      "title": "showTitle",
+      "usp": "numCom",
+      "price_express_long_pic": "picUrl::O1CNA11vqmhp1xh8t9gCQqk_!!2259016474-0-psf.jpg&original::0&picType::p34&channel::wsearchicon-item&biz::pictag&picId::1885009751",
+      "pidvid_info": "20021:28355;148670798:148613613;34272:115775;20608:20785;",
+      "p_f": "0",
+      "list_param": "双肩包_0_4799e37ec95b6a135876c819507c2a02",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "3",
+      "x_object_type_search": "item",
+      "price_express_pic": "picUrl::O1CNA17uLi6v1xh8tEFhHNk_!!2259016474-0-psf.jpg&original::0&picType::p11&channel::wsearchicon-item&biz::pictag&picId::1905060098",
+      "x_ad": "0",
+      "x_object_id": "614241975715"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "4799e37ec95b6a135876c819507c2a02"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i614241975715.htm?&ttid=600000%40taobao_android_10.7.0&sid=9ac975d675ac11a118403123a1830924",
+    "itemCollect": "false",
+    "price": "89.00",
+    "summaryTips": ["涤纶", "可放16寸电脑", "车缝线"],
+    "realSales": "6000+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "6285",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["希卡旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=614241975715",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=4799e37ec95b6a135876c819507c2a02&m=newsimilarsame&isP4p=false&n=10&nid=614241975715&searchToken=3174dfdd676a210b382a51e285239de71f019053915003af73e0f4fe50f9281b&hasSimilar=true&graphnid=614241975715&selected=similar&category=122690003&sellerId=2259016474&similarVersion=dynamic&appId=18601",
+    "item_id": "614241975715",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "https://picasso.alicdn.com/imgextra/O1CNA17uLi6v1xh8tEFhHNk_!!2259016474-0-psf.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客2万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "希卡旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=614241975715"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "gongyibaobei",
+        "showType": "0",
+        "domClass": "gongyibaobei",
+        "text": "公益宝贝",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "59.00",
+      "preText": ""
+    },
+    "userId": "2259016474",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=614241975715&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=3174dfdd676a210b382a51e285239de71f019053915003af73e0f4fe50f9281b",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,gongyibaobei,tmall,baoyounew",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "text": "20人评价\"装电脑真好用\"",
+        "fieldTemplate": "singleRow",
+        "textColor": "#E89534"
+      }
+    ]
+  },
+  {
+    "uniqpid": "43761711",
+    "activityIdBase64": "",
+    "short_title_c2c": "",
+    "priceWithRate": "2300.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:652140513140;cat_id:122690003;seller_id:3400211685;seller_type:1;src:mainse;recType:10;rn:4799e37ec95b6a135876c819507c2a02;c_flag:false;client:android;sp_rank_features:vp%3A2300.0786132812%3Bxf%3A7.5697821557696e-06%3Bxg%3A8.8870438048616e-05%3Bvb%3A3.5762786865234e-07%3Bvu%3A0.00016996264457703%3Buw%3A7.5697898864746e-06%3Buc%3A8.8870525360107e-05%3Bul%3A0.0%3Bac%3A25239784.0;wlsort:0;price:2300;sold:20;sort:_coefp;tpp_bucket:1;catepgoryp:122690003 50006842 0",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "男士印花双肩背包",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "pidvid_info": "20021:112997;",
+      "item_price": "2300.00",
+      "p_f": "0",
+      "list_param": "双肩包_0_4799e37ec95b6a135876c819507c2a02",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "3",
+      "x_object_type_search": "item",
+      "title": "showTitle",
+      "x_ad": "0",
+      "x_object_id": "652140513140"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "4799e37ec95b6a135876c819507c2a02"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i652140513140.htm?&ttid=600000%40taobao_android_10.7.0&sid=9ac975d675ac11a118403123a1830924",
+    "itemCollect": "false",
+    "price": "3000.00",
+    "summaryTips": ["锦纶"],
+    "realSales": "",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["EMPORIO ARMANI官方旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=652140513140",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=4799e37ec95b6a135876c819507c2a02&m=newsimilarsame&isP4p=false&n=10&nid=652140513140&searchToken=8fd7c43dcfbf4f989c3f7a9dfa47836d9f1e7e281b481ac8d9dfed8c676c198a&hasSimilar=true&graphnid=652140513140&hasSame=true&uniqpid=43761711&selected=similar&category=122690003&sellerId=3400211685&similarVersion=dynamic&appId=18601",
+    "item_id": "652140513140",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i4/3400211685/O1CN01VwqwwO1OJm8MYqfLn_!!3400211685.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客1万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "EMPORIO ARMANI官方旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=652140513140"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "2022TopLuxury",
+        "showType": "0",
+        "domClass": "2022TopLuxury",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "2300.00",
+      "preText": ""
+    },
+    "userId": "3400211685",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=652140513140&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=8fd7c43dcfbf4f989c3f7a9dfa47836d9f1e7e281b481ac8d9dfed8c676c198a",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,2022TopLuxury,tmall,baoyounew",
+    "locType": ""
+  },
+  {
+    "uniqpid": "1507875259",
+    "priceShowWithIcon": {
+      "iconHeight": "15",
+      "suffixColor": "#F7002F",
+      "iconWidth": "15",
+      "priceColor": "#F7002F",
+      "showOriginPrice": "false",
+      "index": "0",
+      "suffixText": "限时价",
+      "domClass": "jhs_price_icon",
+      "hiddenPriceUnderline": "false",
+      "iconUrl": "https://gw.alicdn.com/tfs/TB1kgDhVVzqK1RjSZFCXXbbxVXa-45-45.png"
+    },
+    "activityIdBase64": "OTc3MzIwMDE=",
+    "short_title_c2c": "",
+    "priceWithRate": "4599.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:558900689371;cat_id:122690003;seller_id:2549841410;seller_type:1;src:mainse;recType:10;rn:4799e37ec95b6a135876c819507c2a02;c_flag:false;client:android;sp_rank_features:vp%3A4599.0712890625%3Bxf%3A6.4968999140547e-06%3Bxg%3A4.8875761422096e-05%3Bvb%3A1.7881393432617e-07%3Bvu%3A0.00011688470840454%3Buw%3A6.4969062805176e-06%3Buc%3A4.887580871582e-05%3Bul%3A0.0%3Bac%3A24068848.0;wlsort:0;price:4599;sold:2;sort:_coefp;tpp_bucket:1;catepgoryp:122690003 50006842 0",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "mcm直营中性男女通用双肩背包",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "4599.00",
+      "title": "showTitle",
+      "pidvid_info": "20021:29228;34272:45576;",
+      "p_f": "0",
+      "list_param": "双肩包_0_4799e37ec95b6a135876c819507c2a02",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "3",
+      "x_object_type_search": "item",
+      "lbs_info": "tmcs",
+      "price_express_pic": "picUrl::O1CN01OwqN331MHpDV7orWM_!!2549841410-0-sm.jpg&original::1&picType::p11&channel::wsearchicon-item&biz::common",
+      "x_ad": "0",
+      "x_object_id": "558900689371"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "4799e37ec95b6a135876c819507c2a02"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i558900689371.htm?&ttid=600000%40taobao_android_10.7.0&sid=9ac975d675ac11a118403123a1830924",
+    "itemCollect": "false",
+    "price": "5800.00",
+    "summaryTips": ["PVC", "字母"],
+    "realSales": "2人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "2",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["天猫国际进口超市", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=558900689371",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=4799e37ec95b6a135876c819507c2a02&m=newsimilarsame&isP4p=false&n=10&nid=558900689371&searchToken=786156ae91e475ffbdb1325c15de2a9d9f2a9aae9eca54e5c1e46e8bc7e22bb2&hasSimilar=true&graphnid=558900689371&selected=similar&category=122690003&sellerId=2549841410&similarVersion=dynamic&appId=18601",
+    "item_id": "558900689371",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i1/2549841410/O1CN01OwqN331MHpDV7orWM_!!2549841410-0-sm.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客10万+",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "天猫国际进口超市",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=558900689371"
+    },
+    "icons": [
+      {
+        "alias": "jhs_price_icon",
+        "showType": "0",
+        "domClass": "jhs_price_icon",
+        "type": "img",
+        "group": "4"
+      },
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tianmaoguojinew",
+        "showType": "0",
+        "domClass": "tianmaoguojinew",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "m88by",
+        "showType": "0",
+        "domClass": "m88by",
+        "text": "满88包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "4599.00",
+      "preText": ""
+    },
+    "userId": "2549841410",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=558900689371&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=786156ae91e475ffbdb1325c15de2a9d9f2a9aae9eca54e5c1e46e8bc7e22bb2",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "jhs_price_icon,20220614kuanghuan-T,tianmaoguojinew,tmall,m88by",
+    "locType": ""
+  },
+  {
+    "uniqpid": "981618623",
+    "activityIdBase64": "",
+    "short_title_c2c": "",
+    "priceWithRate": "79.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:662544846081;cat_id:122690003;seller_id:2010990396;seller_type:1;src:mainse;recType:10;rn:4799e37ec95b6a135876c819507c2a02;c_flag:false;client:android;sp_rank_features:vp%3A79.0%3Bxf%3A1.0430802831252e-05%3Bxg%3A0.0022258735261858%3Bvb%3A1.1622905731201e-06%3Bvu%3A0.0050211250782013%3Buw%3A1.0430812835693e-05%3Buc%3A0.0022258758544922%3Bul%3A0.0%3Bac%3A19550298.0;wlsort:0;price:79;sold:222;sort:_coefp;tpp_bucket:1;catepgoryp:122690003 50006842 0;sumtips:numCom",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "taobaoSearch",
+        "key": "xxc"
+      },
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "花花公子双肩包旅行男",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "79.00",
+      "title": "showTitle",
+      "usp": "numCom",
+      "pidvid_info": "20021:14086955;148670798:148827290;34272:129555;20608:3267765;",
+      "p_f": "0",
+      "list_param": "双肩包_0_4799e37ec95b6a135876c819507c2a02",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "3",
+      "x_object_type_search": "item",
+      "x_ad": "0",
+      "x_object_id": "662544846081"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "4799e37ec95b6a135876c819507c2a02"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i662544846081.htm?&ttid=600000%40taobao_android_10.7.0&sid=9ac975d675ac11a118403123a1830924",
+    "itemCollect": "false",
+    "price": "99.00",
+    "summaryTips": ["尼龙布", "可放15寸电脑", "印花"],
+    "realSales": "200+人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "222",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["花花公子悦诚专卖店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=662544846081",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=4799e37ec95b6a135876c819507c2a02&m=newsimilarsame&isP4p=false&n=10&nid=662544846081&searchToken=f7e1ba8e2087cfb1ba7abcdbf5c3252ce79e471dc0d9f1f39af1f2bdbb36dc4d&hasSimilar=true&graphnid=662544846081&selected=similar&category=122690003&sellerId=2010990396&similarVersion=dynamic&appId=18601",
+    "item_id": "662544846081",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search2.alicdn.com/img/bao/uploaded/i4/i1/2010990396/O1CN01utxpkl1EnPZB9mpmK_!!2010990396.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客1万",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "花花公子悦诚专卖店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=662544846081"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "baoyounew",
+        "showType": "0",
+        "domClass": "baoyounew",
+        "text": "包邮",
+        "type": "text",
+        "group": "2"
+      },
+      {
+        "alias": "mianfeishangmengtui",
+        "showType": "0",
+        "domClass": "mianfeishangmengtui",
+        "text": "免费取退",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "79.00",
+      "preText": ""
+    },
+    "userId": "2010990396",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=662544846081&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=f7e1ba8e2087cfb1ba7abcdbf5c3252ce79e471dc0d9f1f39af1f2bdbb36dc4d",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,tmall,baoyounew,mianfeishangmengtui",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "text": "18人评价\"做工太好\"",
+        "fieldTemplate": "singleRow",
+        "textColor": "#E89534"
+      }
+    ]
+  },
+  {
+    "uniqpid": "1253738807",
+    "priceShowWithIcon": {
+      "iconHeight": "15",
+      "suffixColor": "#F7002F",
+      "iconWidth": "15",
+      "priceColor": "#F7002F",
+      "showOriginPrice": "false",
+      "index": "0",
+      "suffixText": "限时价",
+      "domClass": "jhs_price_icon",
+      "hiddenPriceUnderline": "false",
+      "iconUrl": "https://gw.alicdn.com/tfs/TB1kgDhVVzqK1RjSZFCXXbbxVXa-45-45.png"
+    },
+    "activityIdBase64": "MTA5MzgyMDAx",
+    "short_title_c2c": "",
+    "priceWithRate": "4299.00",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:641684085098;cat_id:122690003;seller_id:2200657715182;seller_type:1;src:mainse;recType:10;rn:4799e37ec95b6a135876c819507c2a02;c_flag:false;client:android;sp_rank_features:vp%3A3999.02734375%3Bxf%3A7.2121547418647e-06%3Bxg%3A5.2034803957213e-05%3Bvb%3A1.7881393432617e-07%3Bvu%3A6.7055225372314e-05%3Buw%3A7.2121620178223e-06%3Buc%3A5.2034854888916e-05%3Bul%3A0.0%3Bac%3A17411198.0;wlsort:0;price:4299;sold:45;sort:_coefp;tpp_bucket:1;catepgoryp:122690003 50006842 0;sumtips:numCom",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "taobaoSearch",
+        "key": "xxc"
+      },
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "mcm直营小号印花礼物双肩包",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "look_back_user_num;shop_name;into_shop",
+      "p_t": "1",
+      "item_price": "4299.00",
+      "title": "showTitle",
+      "usp": "numCom",
+      "pidvid_info": "",
+      "p_f": "0",
+      "list_param": "双肩包_0_4799e37ec95b6a135876c819507c2a02",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "3",
+      "x_object_type_search": "item",
+      "price_express_pic": "picUrl::O1CN01e0X0Vn1o9PB0x3rxu_!!2200657715182-0-sm.jpg&original::1&picType::p11&channel::wsearchicon-item&biz::common",
+      "x_ad": "0",
+      "x_object_id": "641684085098"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "4799e37ec95b6a135876c819507c2a02"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i641684085098.htm?&ttid=600000%40taobao_android_10.7.0&sid=9ac975d675ac11a118403123a1830924",
+    "itemCollect": "false",
+    "price": "5800.00",
+    "realSales": "45人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "45",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["天猫国际时尚直营", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=641684085098",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=4799e37ec95b6a135876c819507c2a02&m=newsimilarsame&isP4p=false&n=10&nid=641684085098&searchToken=99d22b4bb76254c755051d0db3a996278d7839a181c2386399c8232ae926885e&hasSimilar=true&graphnid=641684085098&selected=similar&category=122690003&sellerId=2200657715182&similarVersion=dynamic&appId=18601",
+    "item_id": "641684085098",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search1.alicdn.com/img/bao/uploaded/i4/i1/2200657715182/O1CN01e0X0Vn1o9PB0x3rxu_!!2200657715182-0-sm.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#FF7C40",
+          "text": "回头客10万+",
+          "hiddenType": "all"
+        },
+        {
+          "color": "#666666",
+          "text": "天猫国际时尚直营",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=641684085098"
+    },
+    "icons": [
+      {
+        "alias": "jhs_price_icon",
+        "showType": "0",
+        "domClass": "jhs_price_icon",
+        "type": "img",
+        "group": "4"
+      },
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tianmaoguojinew",
+        "showType": "0",
+        "domClass": "tianmaoguojinew",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "m88by",
+        "showType": "0",
+        "domClass": "m88by",
+        "text": "满88包邮",
+        "type": "text",
+        "group": "2"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "4299.00",
+      "preText": ""
+    },
+    "userId": "2200657715182",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=641684085098&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=99d22b4bb76254c755051d0db3a996278d7839a181c2386399c8232ae926885e",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "jhs_price_icon,20220614kuanghuan-T,tianmaoguojinew,tmall,m88by",
+    "locType": "",
+    "structuredUSPInfo": [
+      {
+        "text": "11人评价\"外型很好看\"",
+        "fieldTemplate": "singleRow",
+        "textColor": "#E89534"
+      }
+    ]
+  },
+  {
+    "uniqpid": "611406138",
+    "activityIdBase64": "",
+    "short_title_c2c": "",
+    "clickTrace": "query:%E5%8F%8C%E8%82%A9%E5%8C%85;nid:645341853660;cat_id:122690003;seller_id:2209071909401;seller_type:1;src:mainse;recType:10;rn:4799e37ec95b6a135876c819507c2a02;c_flag:false;client:android;sp_rank_features:vp%3A13100.076171875%3Bxf%3A6.6757133936335e-06%3Bxg%3A2.1338441001717e-05%3Bvb%3A2.9802322387695e-07%3Bvu%3A2.0325183868408e-05%3Buw%3A6.6757202148438e-06%3Buc%3A2.133846282959e-05%3Bul%3A0.0%3Bac%3A17220310.0;wlsort:0;price:13100;sold:6;sort:_coefp;tpp_bucket:1;catepgoryp:122690003 50006842 0",
+    "videoAutoPlay": "false",
+    "extraParams": [
+      {
+        "value": "%E5%8F%8C%E8%82%A9%E5%8C%85",
+        "key": "detailAlgoParam"
+      }
+    ],
+    "title": "Versace/范思哲男士双肩背包",
+    "tItemType": "nt_auction_2019",
+    "utLogMap": {
+      "shop": "shop_name;into_shop",
+      "p_t": "1",
+      "pidvid_info": "20021:112997;",
+      "item_price": "13100.00",
+      "p_f": "0",
+      "list_param": "双肩包_0_4799e37ec95b6a135876c819507c2a02",
+      "evo_buckets": "evo243391_113445#263218_118973evo",
+      "smartui_exp": "3",
+      "x_object_type_search": "item",
+      "title": "showTitle",
+      "x_ad": "0",
+      "x_object_id": "645341853660"
+    },
+    "feedback": {
+      "commonParams": {
+        "category": "122690003",
+        "qitXcat1": "2102",
+        "rn": "4799e37ec95b6a135876c819507c2a02"
+      },
+      "tItemType": "ms_tb-webb-widget_goods_n_feedback_widget",
+      "actions": [
+        {
+          "param": {
+            "feedbackType": "no_match"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i1/O1CN01oBYuWL26a7INsNS0n_!!6000000007677-2-tps-54-54.png",
+          "text": "不喜欢这个商品",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_novelty"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01oeinWm1mQER0pblSi_!!6000000004948-2-tps-54-54.png",
+          "text": "已经看过/买过",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将减少此类内容推荐"
+          }
+        },
+        {
+          "param": {
+            "feedbackType": "no_rel"
+          },
+          "icon": "https://img.alicdn.com/imgextra/i2/O1CN01qhjZqP1WfJcjRVIvt_!!6000000002815-2-tps-54-54.png",
+          "text": "和搜索词不相关",
+          "coverInfo": {
+            "commonText": "感谢反馈",
+            "img": "https://img.alicdn.com/imgextra/i1/O1CN01uNzG6L1UjJquyqRHE_!!6000000002553-2-tps-45-45.png",
+            "desc": "将优化搜索结果"
+          }
+        }
+      ]
+    },
+    "auctionURL": "http://a.m.taobao.com/i645341853660.htm?&ttid=600000%40taobao_android_10.7.0&sid=9ac975d675ac11a118403123a1830924",
+    "itemCollect": "false",
+    "price": "13100.00",
+    "summaryTips": ["锦纶"],
+    "realSales": "6人付款",
+    "leafCategory": "122690003",
+    "isP4p": "false",
+    "sold": "6",
+    "shopInfo": {
+      "pbshowshopinfo": "true",
+      "shopInfoList": ["VERSACE范思哲官方旗舰店", "进店"],
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=645341853660",
+      "shopInfoColor": "#333333"
+    },
+    "detailBaseUrl": "",
+    "similarSameUrl": "//market.m.taobao.com/app/nx4/similar_and_same?q=%E5%8F%8C%E8%82%A9%E5%8C%85&prern=4799e37ec95b6a135876c819507c2a02&m=newsimilarsame&isP4p=false&n=10&nid=645341853660&searchToken=97b3dc02732c761a1a55416892f109c57275a64e8538520858cd4e2658a13880&hasSimilar=true&graphnid=645341853660&selected=similar&category=122690003&sellerId=2209071909401&similarVersion=dynamic&appId=18601",
+    "item_id": "645341853660",
+    "priceColor": "#000000",
+    "hiddenSet": {},
+    "cardType": "item",
+    "itemPriceSign": "",
+    "pic_path": "http://g.search1.alicdn.com/img/bao/uploaded/i4/i1/2209071909401/O1CN01NoSsBz2JJiAmqfnEH_!!0-item_pic.jpg",
+    "structuredShopInfo": {
+      "pbshowshopinfo": "true",
+      "bgColor": "#f7f7f7",
+      "paddingRight": "6px",
+      "infoList": [
+        {
+          "color": "#666666",
+          "text": "VERSACE范思哲官方旗舰店",
+          "hiddenType": "suffix"
+        },
+        {
+          "color": "#333333",
+          "text": "进店",
+          "hiddenType": "all"
+        }
+      ],
+      "guideColor": "#333333",
+      "radius": "10.5px",
+      "paddingLeft": "6px",
+      "url": "https://shop.m.taobao.com/shop/shop_index.htm?shop_navi=allitems&upText=%E5%8F%8C%E8%82%A9%E5%8C%85&item_id=645341853660"
+    },
+    "icons": [
+      {
+        "alias": "20220614kuanghuan-T",
+        "showType": "0",
+        "domClass": "20220614kuanghuan-T",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "2022TopLuxury",
+        "showType": "0",
+        "domClass": "2022TopLuxury",
+        "type": "img",
+        "group": "1"
+      },
+      {
+        "alias": "tmall",
+        "showType": "0",
+        "domClass": "tmall",
+        "type": "img",
+        "group": "1"
+      }
+    ],
+    "priceShow": {
+      "unit": "¥",
+      "price": "13100.00",
+      "preText": ""
+    },
+    "userId": "2209071909401",
+    "similarURL": "http://h5.m.taobao.com/app/searchsimilar/www/tbsimilar/index.html?from=tbsearch&showtype=similar&liantiao=wsearch_pre_http_gray&scm=20140662.search&vm=nw&nid=645341853660&q=%E5%8F%8C%E8%82%A9%E5%8C%85&searchToken=97b3dc02732c761a1a55416892f109c57275a64e8538520858cd4e2658a13880",
+    "dItemType": "nt_auction_2019",
+    "productLaunch": "",
+    "iconList": "20220614kuanghuan-T,2022TopLuxury,tmall",
+    "locType": ""
+  }
+]
